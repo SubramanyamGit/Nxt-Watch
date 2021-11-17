@@ -1,0 +1,16 @@
+.link {
+  text-decoration: none;
+  width: 300px;
+}
+@media screen and (min-width: 576px) {
+  .link {
+    width: 250px;
+    margin-right: 20px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .link {
+    width: 280px;
+    margin-right: 20px;
+  }
+}
